@@ -1,0 +1,10 @@
+﻿form {
+    width: 70vw;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#txtemail, #txtsenha {
+    margin-top: 15px;
+}
